@@ -27,46 +27,50 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   <details>
   <summary> Wolf3D </summary>
 
-  ## Goal
+  ### Goal
    Make our own wolfenstein 3D (or Doom 64)
 
-  ## When
+  ### When
    Start 12th of april 2025\
    Ends 25th of may 2025
 
-  ## How
+  ### How
    In C using the CSFML, in groups of 3 people.
 
   </details>
 
+=========
+
   <details>
   <summary> 42sh </summary>
 
-  ## Goal
+  ### Goal
    Make our own Shell (based on tcsh)\
    With execution of 1 command or multiple piped together, input and output redirections, history of commands, alias, etc...
 
-  ## When
+  ### When
    Start 5th of april 2025\
    Ends 9th of may 2025
 
-  ## How
+  ### How
    In C, in groups of 5 people.
 
   </details>
 
+=========
+
   <details>
   <summary> Core War </summary>
 
-  ## Goal
+  ### Goal
    Make our own Arena for the champions __AND__ a compiler to compile the champions\
    in bonus we can make champions
 
-  ## When
+  ### When
    Start 19th of april 2025\
    Ends 16th of may 2025
 
-  ## How
+  ### How
    In C, in groups of 2 people.
 
   </details>
@@ -76,21 +80,23 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   <details>
   <summary> My_lib </summary>
 
-  ## Goal
+  ### Goal
    Make a C99 library that fits my needs, **[check it out](https://github.com/Pereira-Romeo/My_lib)**!
 
-  ## How
+  ### How
    in C (because its a C library...), helped by myself 🥖, Epitech, StackOverflow and the web.
 
   </details>
 
+=========
+
   <details>
   <summary> My_portfolio </summary>
 
-  ## Goal
+  ### Goal
    Make a portfolio (title was quite straight forward)
 
-  ## How
+  ### How
    In HTML and CSS, maybe using tailwindcss framework
 
   </details>
@@ -113,6 +119,8 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   - Organization for group projects (Notion)
 
   </details>
+
+=========
 
   <details>
   <summary> Technical Skills </summary>
