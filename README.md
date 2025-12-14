@@ -75,7 +75,6 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
 
 # Personnal projects
   </details>
-
   <summary> My_lib </summary>
 
   ## Goal
@@ -88,7 +87,6 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   </details>
 
   <details>
-
   <summary> My_portfolio </summary>
 
   ## Goal
