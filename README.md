@@ -72,8 +72,18 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   </details>
 
 
-
 # Personnal projects
+  <details>
+  <summary> My_lib </summary>
+
+  ## Goal
+   Make a C99 library that fits my needs, **[check it out](https://github.com/Pereira-Romeo/My_lib)**!
+
+  ## How
+   in C (because its a C library...), helped by myself 🥖, Epitech, StackOverflow and the web.
+
+  </details>
+
   <details>
   <summary> My_portfolio </summary>
 
@@ -82,17 +92,6 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
 
   ## How
    In HTML and CSS, maybe using tailwindcss framework
-
-  </details>
-
-  <details>
-  <summary> My_lib </summary>
-
-  ## Goal
-   Make a C99 library that fits my needs, [check it out](https://github.com/Pereira-Romeo/My_lib)!
-
-  ## How
-   in C (because its a C library...), helped by myself 🥖, Epitech, StackOverflow and the web.
 
   </details>
 
