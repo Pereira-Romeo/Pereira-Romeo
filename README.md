@@ -26,88 +26,88 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   These are only a few projects as there are too many to fit if i present them all.
   <details>
   <summary> Wolf3D </summary>
-    
+
   ## Goal
    Make our own wolfenstein 3D (or Doom 64)
-    
+
   ## When
    Start 12th of april 2025\
    Ends 25th of may 2025
-    
-  ## How  
-   In C using the CSFML, in groups of 3 people.  
-  
+
+  ## How
+   In C using the CSFML, in groups of 3 people.
+
   </details>
 
   <details>
   <summary> 42sh </summary>
-    
+
   ## Goal
    Make our own Shell (based on tcsh)\
    With execution of 1 command or multiple piped together, input and output redirections, history of commands, alias, etc...
-    
+
   ## When
    Start 5th of april 2025\
    Ends 9th of may 2025
-    
-  ## How  
-   In C, in groups of 5 people.  
-  
+
+  ## How
+   In C, in groups of 5 people.
+
   </details>
-  
+
   <details>
   <summary> Core War </summary>
-    
+
   ## Goal
    Make our own Arena for the champions __AND__ a compiler to compile the champions\
    in bonus we can make champions
-  
+
   ## When
    Start 19th of april 2025\
    Ends 16th of may 2025
-    
-  ## How  
-   In C, in groups of 2 people.  
-  
-  </details>
-  
 
-  
+  ## How
+   In C, in groups of 2 people.
+
+  </details>
+
+
+
 # Personnal projects
   <details>
   <summary> My_portfolio </summary>
-    
+
   ## Goal
    Make a portfolio (title was quite straight forward)
 
-  ## How  
-   In HTML and CSS, maybe using tailwindcss framework  
-  
+  ## How
+   In HTML and CSS, maybe using tailwindcss framework
+
   </details>
 
   <details>
   <summary> My_lib </summary>
-    
+
   ## Goal
    Make a C99 library that fits my needs, [check it out](https://github.com/Pereira-Romeo/My_lib)!
-    
-  ## How  
-   in C (because its a C library...), helped by myself 🥖, Epitech, StackOverflow and the web.   
-  
+
+  ## How
+   in C (because its a C library...), helped by myself 🥖, Epitech, StackOverflow and the web.
+
   </details>
 
 
 # Skills
-  
+
   <details>
   <summary> Soft Skills </summary>
-    
+
   | Language |  Level  |
   | -------- | ------- |
   | French   | native  |
   | English  | fluent  |
   | Spanish  | a tiny bit |
-  
+
   - Creative
   - Problem-solving
   - Listening
@@ -117,7 +117,7 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
 
   <details>
   <summary> Technical Skills </summary>
-    
+
   - C
   - Python
   - VS Code
