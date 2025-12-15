@@ -9,7 +9,7 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
 
 # About me
   I'm a student at EPITECH Rennes in France.\
-  I grew up with the internet and always thought it was fascinating but really misterious. But now i'm learning to make those fascinating things myself at school __AND__ on my free time.\
+  I grew up with the internet and always thought it was fascinating but really misterious. But now i'm learning to make those fascinating things myself at school and on my free time.\
   Passionate about video games i did a Game jam at school on Unity and tried doing a few prototypes on godot Engine.\
   But i'm interested by all subjects regarding computers wich is why at school we learn about everything, from security to web, passing by software and hardware (wich i now know the difference 😁)
 
@@ -63,7 +63,7 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   <summary> Core War </summary>
 
   ### Goal
-   Make our own Arena for the champions __AND__ a compiler to compile the champions\
+   Make our own Arena for the champions and a compiler to compile the champions\
    in bonus we can make champions
 
   ### When
@@ -125,10 +125,21 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   <details>
   <summary> Technical Skills </summary>
 
+  ### language
+
+  - Bash
   - C
-  - Python
-  - VS Code
   - Git/GitHub
-  - Docker
+  - Python
+
+  ### other
+
+  - Cron
+  - CSS
+  - Docker (yaml)
+  - Json (**config files only** <--reason why i put it here instead of language)
+  - Markdown
+  - Nginx
+  - VS code
 
   </details>
