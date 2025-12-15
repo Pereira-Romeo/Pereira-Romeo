@@ -99,10 +99,10 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   <summary> ObsiCraft </summary>
 
   ### Goal
-   Make an Obsidian theme :D
+   Make an Obsidian theme, **[check it out here :D](https://github.com/Pereira-Romeo/ObsiCraft)**!
 
   ### How
-   In css, **[check it out here :D](https://github.com/Pereira-Romeo/ObsiCraft)**!
+   In css
 
   </details>
 
