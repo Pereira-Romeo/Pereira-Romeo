@@ -81,23 +81,28 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   <summary> My_lib </summary>
 
   ### Goal
-   Make a C99 library that fits my needs, **[check it out](https://github.com/Pereira-Romeo/My_lib)**!
+   Make a C99 library that fits my needs, **[check it out here :D](https://github.com/Pereira-Romeo/My_lib)**!
 
   ### How
-   in C (because its a C library...), helped by myself 🥖, Epitech, StackOverflow and the web.
+   using:
+   - Bash (for clean up scripts automation etc)
+   - C (because its a C library...)
+   - Makefile (for compiling etc)
+   - Yaml (github worflows etc)
+   helped by myself 🥖, Epitech, StackOverflow and the web.
 
   </details>
 
 =========
 
   <details>
-  <summary> My_portfolio </summary>
+  <summary> ObsiCraft </summary>
 
   ### Goal
-   Make a portfolio (title was quite straight forward)
+   Make an Obsidian theme :D
 
   ### How
-   In HTML and CSS, maybe using tailwindcss framework
+   In css, **[check it out here :D](https://github.com/Pereira-Romeo/ObsiCraft)**!
 
   </details>
 
@@ -129,14 +134,14 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
 
   - Bash
   - C
-  - Git/GitHub
   - Python
+  - Yaml (Docker)
 
   ### other
 
   - Cron
   - CSS
-  - Docker (yaml)
+  - Git/GitHub
   - Json (**config files only** <--reason why i put it here instead of language)
   - Markdown
   - Nginx
