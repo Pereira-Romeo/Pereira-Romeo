@@ -81,7 +81,7 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   <summary> My_lib </summary>
 
   ### Goal
-   Make a C99 library that fits my needs, **[check it out](https://github.com/Pereira-Romeo/My_lib)**!
+   Make a C99 library that fits my needs, [check it out](https://github.com/Pereira-Romeo/My_lib)!
 
   ### How
    in C (because its a C library...), helped by myself 🥖, Epitech, StackOverflow and the web.
@@ -125,14 +125,14 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   <details>
   <summary> Technical Skills </summary>
 
-  ### language
+  ## language
 
   - Bash
   - C
   - Git/GitHub
   - Python
 
-  ### other
+  ## other
 
   - Cron
   - CSS
