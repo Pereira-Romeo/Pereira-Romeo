@@ -137,6 +137,7 @@ My name is Roméo and i'm a Student at Epitech since 2024 !
   - Lua
   - Python
   - Yaml (Docker)
+  - Haskell
 
   ### other
 
