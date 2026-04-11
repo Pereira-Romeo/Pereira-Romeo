@@ -1,152 +1,116 @@
-# Hi there 👋
-My name is Roméo and i'm a Student at Epitech since 2024 !
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-## table of Contents
- - [about me](#about-me).
- - [School projects](#school-projects).
- - [Personnal projects](#personnal-projects).
- - [Skills](#skills).
+###
 
-# About me
-  I'm a student at EPITECH Rennes in France.\
-  I grew up with the internet and always thought it was fascinating but really misterious. But now i'm learning to make those fascinating things myself at school and on my free time.\
-  Passionate about video games i did a Game jam at school on Unity and tried doing a few prototypes on godot Engine.\
-  But i'm interested by all subjects regarding computers wich is why at school we learn about everything, from security to web, passing by software and hardware (wich i now know the difference 😁)
+<h1 align="center">Hiiii👋</h1>
 
-  At Epitech i am an Ambassador student, meaning i help during <ins>open days</ins>, <ins>coding clubs</ins>[^1] and many other events organized by the school and/or the students associations !
+###
 
-  [^1]: coding clubs are events when anyone can come to our school and learn how to code in different beginer-friendly languages on fun mini-projects
+<p align="left">I'm Roméo<br>A student  at EPITECH Rennes, in France, since 2024.<br><br>I love video games, they're the reason why i got into programming.<br>But, i do not limit myself to making video games, because every subject interests me, from hardware, to software, passing through cyber security, web and everything in between...</p>
 
-### 📫 how to reach me:
-  - Email: [romeo.pereira@epitech.eu](mailto:romeo.pereira@epitech.eu)
-  - LinkedIn: [linkedin.com/in/roméo-pereira](https://www.linkedin.com/in/rom%C3%A9o-pereira-b60901342/)
+###
 
+<h2 align="center">Tech i'm used to</h2>
 
-# School projects
-  These are only a few projects as there are too many to fit if i present them all.
-  <details>
-  <summary> Wolf3D </summary>
+###
 
-  ### Goal
-   Make our own wolfenstein 3D (or Doom 64)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="69" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="69" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="69" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="69" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="69" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="69" alt="gcc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="69" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="69" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="69" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="69" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="69" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="69" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="69" alt="unity logo"  />
+</div>
 
-  ### When
-   Start 12th of april 2025\
-   Ends 25th of may 2025
+###
 
-  ### How
-   In C using the CSFML, in groups of 3 people.
+<h2 align="center">Tech i've used</h2>
 
-  </details>
+###
 
-=========
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="69" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="69" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="69" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="69" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="69" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="69" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="69" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="69" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="69" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="69" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="69" alt="unix logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="69" alt="nixos logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="69" alt="canva logo"  />
+</div>
 
-  <details>
-  <summary> 42sh </summary>
+###
 
-  ### Goal
-   Make our own Shell (based on tcsh)\
-   With execution of 1 command or multiple piped together, input and output redirections, history of commands, alias, etc...
+<div align="center">
+  <a href="https://www.linkedin.com/in/romeo-pereira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:romeo.pereira@epitech.eu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
-  ### When
-   Start 5th of april 2025\
-   Ends 9th of may 2025
+###
 
-  ### How
-   In C, in groups of 5 people.
+<div align="center">
+  <img style="80%" src="https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&reversal=false&text=Some%20Projects%20to%20check%20out&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=63&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-  </details>
+###
 
-=========
+<div align="center">
+ <a href="https://github.com/Pereira-Romeo/Arcade" target="_blank">
+  <img src="https://img.shields.io/badge/Arcade-blue?style=for-the-badge" height="30" alt="Arcade repo" />
+ </a>
+ &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Pereira-Romeo/My_lib" target="_blank">
+  <img src="https://img.shields.io/badge/My_C_library-blue?style=for-the-badge" height="30" alt="My_lib repo" />
+ </a>
+ &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Pereira-Romeo/Obsicraft" target="_blank">
+  <img src="https://img.shields.io/badge/Obsicraft-blue?style=for-the-badge" height="30" alt="Obsicraft repo" />
+ </a>
+</div>
 
-  <details>
-  <summary> Core War </summary>
+more to come soon 🤫
 
-  ### Goal
-   Make our own Arena for the champions and a compiler to compile the champions\
-   in bonus we can make champions
-
-  ### When
-   Start 19th of april 2025\
-   Ends 16th of may 2025
-
-  ### How
-   In C, in groups of 2 people.
-
-  </details>
-
-
-# Personnal projects
-  <details>
-  <summary> My_lib </summary>
-
-  ### Goal
-   Make a C99 library that fits my needs, **[check it out here :D](https://github.com/Pereira-Romeo/My_lib)**!
-
-  ### How
-   using:
-   - Bash (for clean up scripts automation etc)
-   - C (because its a C library...)
-   - Makefile (for compiling etc)
-   - Yaml (github worflows etc)
-   helped by myself 🥖, Epitech, StackOverflow and the web.
-
-  </details>
-
-=========
-
-  <details>
-  <summary> ObsiCraft </summary>
-
-  ### Goal
-   Make an Obsidian theme, **[check it out here :D](https://github.com/Pereira-Romeo/ObsiCraft)**!
-
-  ### How
-   In css
-
-  </details>
-
-
-# Skills
-
-  <details>
-  <summary> Soft Skills </summary>
-
-  | Language |  Level  |
-  | -------- | ------- |
-  | French   | native  |
-  | English  | fluent  |
-  | Spanish  | a tiny bit |
-
-  - Creative
-  - Problem-solving
-  - Listening
-  - Organization for group projects (Notion)
-
-  </details>
-
-=========
-
-  <details>
-  <summary> Technical Skills </summary>
-
-  ### language
-
-  - Bash
-  - C
-  - Lua
-  - Python
-  - Yaml (Docker)
-  - Haskell
-
-  ### other
-
-  - Cron
-  - CSS
-  - Git/GitHub
-  - Json (**config files only** <--reason why i put it here instead of language)
-  - Markdown
-  - Nginx
-  - VS code
-
-  </details>
+###
