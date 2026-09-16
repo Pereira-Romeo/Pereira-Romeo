@@ -43,9 +43,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="69" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="69" alt="markdown logo"  />
+  <img src="https://cdn.simpleicons.org/markdown/FFFFFF" height="69" alt="markdown logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="69" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg" height="69" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/neovim.svg" height="69" alt="vscode logo"  />
   <img width="12" />
