@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="69" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rust-kawaii.svg" height="69" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/rust.svg" height="69" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="69" alt="python logo"  />
   <img width="12" />
@@ -93,9 +93,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" height="69" alt="ansible logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/express-kawaii.svg" height="69" alt="c logo"  />
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="69" alt="express"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript-kawaii.svg" height="69" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" height="69" alt="typescript logo"  />
   <img width="12" />
 </div>
 
